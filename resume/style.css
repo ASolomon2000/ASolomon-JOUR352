@@ -1,23 +1,24 @@
+/*Styles for my resume*/
 body {
     font-family: OpenSans, Arial, Helvetica;
     font-size: 1em;
     color: #444;
     font-weight: 400;
 }
-
+/*Style for centered name at the Top*/
 h1 {
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
 }
-
+/*Style for Aiesha Solomon's Title*/
 strong {
     text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
 }
-
+/*Style for titles for Experience, Education and Skills Setions*/
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -25,23 +26,23 @@ h2 {
     color: white;
     font-weight: 400;
 }
-
+/*Style for Job titles*/
 h3 {
     font-weight: 600;
     font-size: 1.5em;
 }
-
+/*Style for Job Organization*/
 h4 {
     font-weight: 400;
     font-size: 1.5em;
 }
-
+/*Style for Jobs Dates*/
 h5 {
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
 }
-
+/*Style for Contact Info, Skills and Education Lists*/
 ul {
     font-size: 1em;
 }
