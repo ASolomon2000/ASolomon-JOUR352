@@ -6,7 +6,7 @@ body {
     font-weight: 400;
 }
 /*Style for centered name at the Top*/
-h1 {
+#name {
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
@@ -19,7 +19,7 @@ strong {
     color: #33485e;
 }
 /*Style for titles for Experience, Education and Skills Setions*/
-#name {
+.sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #33485e;
@@ -54,7 +54,7 @@ ul {
     margin: 0 auto;
 }
 
-#sectionheader {
+.sectionheader {
     margin: 20px 0px 10px;
     width: 70%;
     min-width: 300px;
