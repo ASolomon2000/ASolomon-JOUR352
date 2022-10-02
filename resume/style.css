@@ -32,9 +32,9 @@ strong {
     font-size: 1.5em;
 }
 /*Style for Job Organization*/
-h4 {
+.organization {
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 /*Style for Jobs Dates*/
 h5 {
