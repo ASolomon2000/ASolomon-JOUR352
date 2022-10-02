@@ -46,3 +46,10 @@ h5 {
 ul {
     font-size: 1em;
 }
+/*New Style for 'name' div 1*/
+#name {
+    border: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
