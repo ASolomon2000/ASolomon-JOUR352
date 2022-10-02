@@ -53,17 +53,24 @@ ul {
     min-width: 300px;
     margin: 0 auto;
 }
-
+/*New additions to section header tags*/
 .sectionheader {
     margin: 20px 0px 10px;
     width: 70%;
     min-width: 300px;
 
 }
-
+/*New additions to date tags*/
 .date {
     margin-top: 2px;
     margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to paragraph tags*/
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 0px;
     margin-right: 0px;
 }
