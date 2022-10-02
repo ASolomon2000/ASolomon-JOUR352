@@ -19,7 +19,7 @@ strong {
     color: #33485e;
 }
 /*Style for titles for Experience, Education and Skills Setions*/
-div {
+#name {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #33485e;
