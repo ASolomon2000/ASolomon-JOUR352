@@ -27,7 +27,7 @@ strong {
     font-weight: 400;
 }
 /*Style for Job titles*/
-h3 {
+.jobtitle {
     font-weight: 600;
     font-size: 1.5em;
 }
