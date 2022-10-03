@@ -74,3 +74,10 @@ ul {
     margin-left: 0px;
     margin-right: 0px;
 }
+/*New additions to contact info list*/
+.menu {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    display: inline;
+}
