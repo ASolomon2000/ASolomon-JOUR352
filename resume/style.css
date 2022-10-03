@@ -81,3 +81,17 @@ ul {
     text-align: center;
     display: inline;
 }
+/*New additions to Education lists*/
+#degrees {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to Skills lists*/
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
