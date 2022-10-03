@@ -80,6 +80,7 @@ ul {
     padding: 0px;
     text-align: center;
     display: inline;
+    list-style-type: none;
 }
 /*New additions to Education lists*/
 #degrees {
