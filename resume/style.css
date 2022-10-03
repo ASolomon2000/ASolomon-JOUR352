@@ -5,6 +5,12 @@ body {
     color: #444;
     font-weight: 400;
 }
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
 /*Style for centered name at the Top*/
 #name {
     font-size: 3em;
@@ -98,7 +104,7 @@ ul {
     margin-left: 0px;
     margin-right: 0px;
 }
-
+/*New additions to resume title*/
 #title {
     font-weight: 600;
     text-align: center;
@@ -106,4 +112,11 @@ ul {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
+}
+/*New additions to Aiesha description and mission at the top of resume*/
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
