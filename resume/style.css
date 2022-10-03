@@ -13,7 +13,7 @@ body {
     text-align: center; 
 }
 /*Style for Aiesha Solomon's Title*/
-strong {
+#title {
     text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
@@ -94,6 +94,15 @@ ul {
 /*New additions to Skills lists*/
 #do {
     margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#title {
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
