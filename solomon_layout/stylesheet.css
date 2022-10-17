@@ -18,6 +18,8 @@
 h1 {
 font-family: Helvetica, sans-serif;
 font-size: 35px;
+text-align: center;
+color: navy;
 }
 /*Body text stylization*/
 p {
