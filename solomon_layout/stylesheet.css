@@ -40,7 +40,19 @@ blockquote {
     padding-left: 10px; 
     border-left: 2px dotted ; 
 } 
-
+/*Sizing for Image 1*/
 #img1 {
+    width: 100%;
+}
+/*Sizing for Image 2*/
+#img2 {
+    width: 100%;
+}
+/*Sizing for Image 3*/
+#img3 {
+    width: 100%;
+}
+/*Sizing for Graphic*/
+#graphic {
     width: 100%;
 }
