@@ -1,7 +1,9 @@
 /*Image border and padding size change*/
 #img {
     margin: auto;
-    width: 50%
+    width: 50%;
+    display: block;
+    
 }
 /*Content wrapper*/
 #content {
@@ -38,3 +40,7 @@ blockquote {
     padding-left: 10px; 
     border-left: 2px dotted ; 
 } 
+
+#img1 {
+    width: 100%;
+}
