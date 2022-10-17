@@ -8,3 +8,20 @@
     margin: 0 auto;
     width: 900px; 
   } 
+/*byline style*/
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+/*Headline style*/
+h1 {
+font-family: Helvetica, sans-serif;
+font-size: 35px;
+}
+/*Body text stylization*/
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
