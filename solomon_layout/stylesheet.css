@@ -1,5 +1,6 @@
 /*Image boder and padding size change*/
 #img {
+    margin: auto;
     width: 50%
 }
 /*Content wrapper*/
