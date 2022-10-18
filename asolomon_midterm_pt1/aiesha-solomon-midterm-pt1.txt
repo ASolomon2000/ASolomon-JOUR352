@@ -1,0 +1,81 @@
+1.  In the sentence below, put in the necessary code that would allow users to click on the word "Google" and open Google's homepage:
+
+<a href="https://www.google.com/">Google</a> is the best search engine in the world.
+
+ 
+
+
+2.  Describe the purpose of a DIV tag.
+- This div tag is a container. It is a container used HTML to properly organize and group together the document using the <div> tag and it can be used with IDs and class in CSS to properly format styles ina style sheet.
+ 
+
+
+3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet, include DIV tags, advanced metadata, or anything like that).
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        Aiesha Solomon's Resume
+        </title>
+    </head>
+
+    <body>
+    This is where the content of the webpage and my resume information is being contained. 
+    All differnt types of tafs will be used to format th page as well.
+    </body>
+</html>
+
+
+
+4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
+- The link to the external stylesheet goes in the head section of the HTML page.
+ 
+
+5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
+- The text, images and <div> tags go in the bod section of an HTML page.
+ 
+
+6.  In the space below, put one DIV tag with a class of "graphicbox" and a second DIV tag with an ID of "name".
+
+<div class="graphicbox"></div>
+ 
+<div id="name"></div>
+
+
+7.  In the space below, put one DIV tag with an ID of "apples" and a class of "fruit".
+
+<div id="apples" class="fruit"></div>
+ 
+
+ 
+
+8.  In the space below, write the correct CSS code to target a DIV which has a class of "fruit".  Make the color of the text black (#000000).
+
+.fruit {
+    color: #000000;
+}
+
+
+
+9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
+
+<img>
+
+
+10.  Why do we use media queries?
+
+- Media queries are used in CSS to change the look and size of a webpage on different devices. 
+For example, if different people are reading the same article on a desktop computer versus a smartphone, the design on the webpage has to be responsive enough to change it's look and sizing on those different devices.
+This is what using media queries does.
+
+11. What is the main difference between a serif and a sans-serif font?
+
+- Serif fonts have fancy tails at th end of the letters similar to the way caligraphy pens write, while sans-serif fonts do not have those fancy tails.
+
+
+12. Which of the following is a hexadecimal code?
+#FFCC33 - This one is a hexadecimal code that is used to represent colors.
+123,543,242
+101010101
+-213
