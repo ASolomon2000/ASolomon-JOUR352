@@ -51,6 +51,7 @@ blockquote {
     font: Georgia, 'Times New Roman', Times, serif; 
     font-size: 25px;
     font-style: italic; 
+    font-weight: bold;
     margin-top: 15px; 
     margin-bottom: 15px; 
     color: navy; 
@@ -81,4 +82,9 @@ blockquote {
 /*Sizing for Graphic*/
 #graphic {
     width: 100%;
+}
+
+figcaption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
 }
