@@ -24,7 +24,7 @@ font-size: 40px;
 text-align: center;
 color: navy;
 }
-
+/*Subheading Stylization*/
 h2 {
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 28px;
@@ -32,7 +32,7 @@ text-align: center;
 color: navy;
 font-style: italic;
 }
-
+/*Related Article Links' heading at the Bottom of the page*/
 h3 {
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 23px;
@@ -82,7 +82,7 @@ blockquote {
 #graphic {
     width: 100%;
 }
-
+/*Photo captions stylization*/
 figcaption {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 13px;
