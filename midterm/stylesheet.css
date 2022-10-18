@@ -1,0 +1,70 @@
+/*Image border and padding size change*/
+#img {
+    margin: auto;
+    width: 50%;
+    display: block;
+    
+}
+/*Content wrapper*/
+#content {
+    margin: 0 auto;
+    width: 900px; 
+  } 
+/*byline style*/
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+/*Headline style*/
+h1 {
+font-family: Helvetica, sans-serif;
+font-size: 35px;
+text-align: center;
+color: navy;
+}
+/*Body text stylization*/
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    margin: 20px;
+}
+/*Pull=quote sectionin article*/
+blockquote {
+    font: 16px/24px Georgia, 'Times New Roman', Times, serif; 
+    font-style: italic; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: navy; 
+    margin-left: 40px; 
+    padding-left: 10px; 
+    border-left: 2px dotted ; 
+} 
+/*Sizing for Image 1*/
+#img1 {
+    width: 100%;
+}
+/*Sizing for Image 2*/
+#img2 {
+    width: 100%;
+}
+/*Sizing for Image 3*/
+#img3 {
+    width: 100%;
+}
+
+#img4 {
+    width: 100%;
+}
+
+#img6 {
+    width: 100%;
+}
+
+#img8 {
+    width: 100%;
+}
+/*Sizing for Graphic*/
+#graphic {
+    width: 100%;
+}
