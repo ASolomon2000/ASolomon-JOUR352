@@ -11,12 +11,9 @@ body {
     margin: 0 auto;
     padding-bottom: 50px;
 }
-/*Style for centered name at the Top*/
-#name {
-    font-size: 3em;
-    color: #33485e;
-    text-transform: uppercase;
-    text-align: center; 
+/*Style for centered topper at the Top*/
+#img1 {
+    width: 100%;
 }
 /*Style for Aiesha Solomon's Title*/
 #title {
