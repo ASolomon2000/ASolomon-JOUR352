@@ -1,0 +1,122 @@
+/*Styles for my resume*/
+body {
+    font-family: OpenSans, Arial, Helvetica;
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+}
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+/*Style for centered name at the Top*/
+#name {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center; 
+}
+/*Style for Aiesha Solomon's Title*/
+#title {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #33485e;
+}
+/*Style for titles for Experience, Education and Skills Setions*/
+.sectionheader {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: white;
+    font-weight: 400;
+}
+/*Style for Job titles*/
+.jobtitle {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+/*Style for Job Organization*/
+.organization {
+    font-weight: 400;
+    font-size: 1.25em;
+}
+/*Style for Jobs Dates*/
+.date {
+    font-weight: 400;
+    font-size: 1em;
+    font-style: italic;
+}
+/*Style for Contact Info, Skills and Education Lists*/
+ul {
+    font-size: 1em;
+}
+/*New Style for 'name' div 1*/
+#name {
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+/*New additions to section header tags*/
+.sectionheader {
+    margin: 20px 0px 10px;
+    width: 70%;
+    min-width: 300px;
+
+}
+/*New additions to date tags*/
+.date {
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to paragraph tags*/
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to contact info list*/
+.menu {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.menu li {
+    display: inline;
+    list-style-type: none;
+}
+/*New additions to Education lists*/
+#degrees {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to Skills lists*/
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to resume title*/
+#title {
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*New additions to Aiesha description and mission at the top of resume*/
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
