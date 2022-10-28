@@ -26,9 +26,12 @@ body {
 .sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
-    background-color: #33485e;
+    background-color: black;
     color: white;
     font-weight: 400;
+    border-radius: 7px;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
 }
 /*Style for Job titles*/
 .jobtitle {
@@ -62,6 +65,7 @@ ul {
     margin: 20px 0px 10px;
     width: 70%;
     min-width: 300px;
+    
 
 }
 /*New additions to date tags*/
@@ -123,24 +127,25 @@ ul {
     color: black;;
     margin: 0 55px;
     font-size: 64px;
+    text-align: auto;
 }
 .email-icon:hover {
     color: beige;
 }
 .twitter-icon {
     color: black;
-    transition: color 0.1s;
     margin: 0 55px;
-    font: 64px;
+    font-size: 64px;
+    text-align: auto;
 }
 .twitter-icon:hover {
     color: beige;
 }
 .github-icon {
     color: black;
-    transition: color 0.1s;
     margin: 0 55px;
     font-size: 64px;
+    text-align: auto;
 }
 .github-icon:hover {
     color: beige;
