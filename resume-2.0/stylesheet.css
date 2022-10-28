@@ -65,7 +65,10 @@ ul {
     margin: 20px 0px 10px;
     width: 70%;
     min-width: 300px;
-    
+    background-color: white;
+    color: black;
+    border-radius: 7px;
+    text-align: left;
 
 }
 /*New additions to date tags*/
@@ -149,4 +152,8 @@ ul {
 }
 .github-icon:hover {
     color: beige;
+}
+/*Narbar stylization*/
+.navbar navbar-expand-lg navbar-dark bg- {
+    background-color: black;
 }
