@@ -57,7 +57,7 @@ ul {
     margin: 0 auto;
 }
 /*New additions to section header tags*/
-.sectionheader {
+#sectionheader {
     margin: 20px 0px 10px;
     width: 70%;
     min-width: 300px;
