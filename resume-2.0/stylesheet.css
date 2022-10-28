@@ -128,27 +128,24 @@ ul {
 /*Social Media Icons*/
 .email-icon {
     color: black;;
-    margin: 0 55px;
     font-size: 64px;
-    text-align: auto;
+    text-align: left;
 }
 .email-icon:hover {
     color: beige;
 }
 .twitter-icon {
     color: black;
-    margin: 0 55px;
     font-size: 64px;
-    text-align: auto;
+    text-align: middle;
 }
 .twitter-icon:hover {
     color: beige;
 }
 .github-icon {
     color: black;
-    margin: 0 55px;
     font-size: 64px;
-    text-align: auto;
+    text-align: right;
 }
 .github-icon:hover {
     color: beige;
@@ -156,4 +153,9 @@ ul {
 /*Narbar stylization*/
 .navbar navbar-expand-lg navbar-dark bg- {
     background-color: black;
+}
+/*Copyright and Footer Style*/
+footer {
+    font-family: 'Source Serif Pro', serif;
+    color: black;
 }
