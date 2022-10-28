@@ -4,6 +4,7 @@ body {
     font-size: 1em;
     color: #444;
     font-weight: 400;
+    background-color: #90C151;
 }
 #container {
     width: 100%;
@@ -116,4 +117,26 @@ ul {
     min-width: 300px;
     margin: 0 auto;
     margin-bottom: 30px;
+}
+/*Social Media Icons*/
+.email-icon {
+    color: black;
+    margin: 0 ;
+}
+.email-icon:hover {
+    color: #90C151;
+}
+.twitter-icon {
+    color: black;
+    margin: 0 ;
+}
+.twitter-icon:hover {
+    color: #90C151;
+}
+.github-icon {
+    color: black;
+    margin: 0 ;
+}
+.github-icon:hover {
+    color: #90C151;
 }
