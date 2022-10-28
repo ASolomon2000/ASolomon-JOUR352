@@ -124,17 +124,24 @@ ul {
     margin: 0 55px;
     font-size: 64px;
 }
-
+.email-icon:hover {
+    color: beige;
+}
 .twitter-icon {
     color: black;
     transition: color 0.1s;
     margin: 0 55px;
     font: 64px;
 }
-
+.twitter-icon:hover {
+    color: beige;
+}
 .github-icon {
     color: black;
     transition: color 0.1s;
     margin: 0 55px;
     font-size: 64px;
+}
+.github-icon:hover {
+    color: beige;
 }
