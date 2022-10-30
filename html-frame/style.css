@@ -12,3 +12,14 @@
     text-transform: uppercase;
     font-style: italic;
 }
+
+p {
+    font-family: 'Times New Roman', Times, Georgia, serif;
+    line-height: 160%;
+    font-size: 20px;
+}
+
+.img {
+    text-align: center;
+    width: 100%;
+}
