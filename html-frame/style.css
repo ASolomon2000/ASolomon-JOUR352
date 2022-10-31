@@ -31,3 +31,7 @@ p {
     margin-right: auto;
     width: 50%;
 }
+
+.caption {
+    text-align: center;
+}
