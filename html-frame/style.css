@@ -41,6 +41,8 @@ p {
 
 .caption {
     text-align: center;
+    font-family: 'Times New Roman', Times, Georgia, serif;
+    font-size: 17px;
 }
 
 .col-sm {
