@@ -36,8 +36,16 @@ p {
     text-align: center;
 }
 
+.col-sm {
+    font-family: 'Times New Roman', Times, Georgia, serif;
+    text-align: center;
+    font-size: 20px;
+}
+
 footer {
     background-color: black;
     color: white;
     font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 18px;
 }
