@@ -46,6 +46,7 @@ h5 {
     background-color: black;
     color: white;
     text-align: center;
+    font-size: 40px;
 }
 
 p {
@@ -54,11 +55,11 @@ p {
     font-size: 20px;
 }
 
-.img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#img {
+    margin: auto;
     width: 50%;
+    display: block;
+    
 }
 
 .caption {
@@ -79,4 +80,14 @@ footer {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 18px;
+}
+
+blockquote {
+    border-style: double;
+    border-color: red;
+    border-width: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 500;
 }
