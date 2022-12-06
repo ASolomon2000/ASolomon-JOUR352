@@ -17,10 +17,6 @@
     color: white;
 }
 
-nav {
-    color: lightseagreen;
-}
-
 .headline {
     font-size: 3em;
     font-family: 'Raleway', sans-serif;
@@ -55,11 +51,16 @@ p {
     font-size: 20px;
 }
 
-#img {
+img {
     margin: auto;
-    width: 50%;
+    width: 100%;
     display: block;
     
+}
+
+figure {
+    width: 50%;
+    margin: auto;
 }
 
 .caption {
