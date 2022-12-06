@@ -7,9 +7,9 @@
     padding-right: 50px;
     border: 25px;
 }
-
+/*Lora Google font*/
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
-
+/*Big letters at the start of my sections*/
 .first-letter {
     font-size: 35px;
     line-height: 70px;
