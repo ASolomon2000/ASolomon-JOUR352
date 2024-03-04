@@ -1,26 +1,22 @@
 #container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
     padding-bottom: 50px;
     padding-left: 50px;
     padding-right: 50px;
     border: 25px;
 }
-
+/*Lora Google font*/
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
-
+/*Big letters at the start of my sections*/
 .first-letter {
     font-size: 35px;
     line-height: 70px;
     background-color: black;
     color: white;
 }
-
-nav {
-    color: lightseagreen;
-}
-
+/*Story text stylization*/
 .headline {
     font-size: 3em;
     font-family: 'Raleway', sans-serif;
@@ -50,16 +46,21 @@ h5 {
 }
 
 p {
-    font-family: 'Times New Roman', Times, Georgia, serif;
+    font-family: 'Lora', 'Times New Roman', Times, Georgia, serif;
     line-height: 160%;
     font-size: 20px;
 }
 
-#img {
+img {
     margin: auto;
-    width: 50%;
+    width: 100%;
     display: block;
     
+}
+
+figure {
+    max-width: 300px;
+    margin: auto;
 }
 
 .caption {
